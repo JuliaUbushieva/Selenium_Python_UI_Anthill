@@ -27,7 +27,7 @@ Automated tests cover core UI functionality such as:
 
 1. **Clone the repository**:
     ```bash
-    git clone [[https://github.com/JuliaUbushieva/Selenium_Python_UI_Anthill.git]
+    git clone [https://github.com/JuliaUbushieva/Selenium_Python_UI_Anthill.git]
     cd Selenium_Python_UI_Anthill
     ```
 
